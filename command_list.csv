@@ -1,0 +1,16 @@
+  205  git commit -m "new branch new file develop"
+  206  git log
+  207  nano develop_test.txt
+  208  git status
+  209  git add .
+  210  git commit -m "changes to develop_test"
+  211  git checkout main
+  212  git status
+  213  git fetch
+  214  git pull
+  215  git merge develop
+  216  git log
+  217  git history command_list.csv
+  218  git --help
+  219  get push origin main
+  220  git push origin main
